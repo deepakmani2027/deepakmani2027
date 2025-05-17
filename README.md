@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fdcf45e8-0e5c-4e63-b7f2-59e6903ae004" alt="Masterhead" width="100%" />
-</div>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Deepak Mani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
