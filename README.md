@@ -1,4 +1,7 @@
-[![MasterHead](https://github.com/user-attachments/assets/fdcf45e8-0e5c-4e63-b7f2-59e6903ae004)]
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fdcf45e8-0e5c-4e63-b7f2-59e6903ae004" alt="Masterhead" width="100%" />
+</div>
 <h1 align="center">Hi 👋, I'm Deepak Mani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
