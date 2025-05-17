@@ -1,3 +1,5 @@
+![logo](https://www.canva.com/design/DAGnrW3BqAI/uaGg1BACWso4IvaJIkg9KA/watch?utm_content=DAGnrW3BqAI&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+
 <h1 align="center">Hi 👋, I'm Deepak Mani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
